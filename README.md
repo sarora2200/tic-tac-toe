@@ -4,9 +4,16 @@
 ## Introduction
 Welcome to my Tic Tac Toe web application! This project was born out of a desire to create a fun and interactive game while honing my skills in web development. As a Full Stack Developer student, I wanted to showcase my ability to build a simple yet engaging game using HTML, CSS, and JavaScript.
 
+<p align="center">
+  <img src="xo.png"
+       alt="Tic Tac Toe Game"
+       width="600"
+  />
+</p>
+
 - **Deployed Site:** [Tic Tac Toe Game](https://sarora2200.github.io/tic-tac-toe/)
 - **Final Project Blog Article:** [Tic Tac Toe Web App - Blog Post](#) (Link to your blog post)
-- **Author(s):** Sarah Ahmed ([LinkedIn](https://www.linkedin.com/in/sarah-ahmed-078868151/))
+- **Author(s):** Sarah Ahmed ([LinkedIn](https://www.linkedin.com/in/sarah-ahmed-078868151/)) 
 
 ## Inspiration and Technical Challenge
 The inspiration behind this project came from my passion for classic games and my journey in learning web development. I wanted to challenge myself by implementing the logic of the Tic Tac Toe game using JavaScript algorithms. One of the technical challenges I faced was designing the game's logic to handle player moves, check for a winner, and manage the game's state.
