@@ -25,8 +25,7 @@ During the development process, I struggled with optimizing the code for efficie
 
 ## How to Play
 1. Open the Tic Tac Toe Game in your web browser.
-2. Choose a game mode: single-player or multiplayer.
-3. Follow the on-screen instructions to make your moves and enjoy the game!
+2. Enjoy the game by taking turns with your opponent to place your symbol (X or O) on the board.
 
 ## Contribution and Feedback
 Your contributions and feedback are highly appreciated! If you have ideas for improvements or want to contribute to the project, feel free to:
