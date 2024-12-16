@@ -12,7 +12,7 @@ Welcome to my Tic Tac Toe web application! This project was born out of a desire
 </p>
 
 - **Deployed Site:** [Tic Tac Toe Game](https://sarora2200.github.io/tic-tac-toe/)
-- **Final Project Blog Article:** [Tic Tac Toe Web App - Blog Post](#) (Link to your blog post)
+- **Final Project Blog Article:** [Tic Tac Toe Web App - Blog Post](#) 
 - **Author(s):** Sarah Ahmed ([LinkedIn](https://www.linkedin.com/in/sarah-ahmed-078868151/)) 
 
 ## Inspiration and Technical Challenge
